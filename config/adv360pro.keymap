@@ -52,8 +52,8 @@
 
         extend_layer {
             bindings = <
-                ___    &kp LG(N1)  &kp LG(N2)  &kp LG(N3)  &kp LG(N4)  &kp LG(N5)   ___            ___      &kp LG(N6)  &kp LG(N7)  &kp LG(N8)  &kp LG(N9)  &kp LG(N0)   ___ 
-                ___       ___       ___   &kp LG(Z) &kp LG(LS(Z))  ___       ___            ___       ___    &kp LG(Z) &kp LG(LS(Z))  &kp LG(O)     &kp LG(P)   ___
+                ___    &kp LG(N1)  &kp LG(N2)  &kp LG(N3)  &kp LG(N4)  &kp LG(N5)   ___            ___      &kp LG(N6)  &kp LG(N7)  &kp LG(N8)  &kp LG(N9)  &kp LG(N0)   ___
+                ___       ___       ___   &kp LG(Z) &kp LG(LS(Z))  &kp LA(LS(N4))       ___            ___       &kp LA(LS(N3))    &kp LG(Z) &kp LG(LS(Z))  &kp LG(O)     &kp LG(P)   ___
                 ___       &sl APP   &sl SYS  &sl TEXT  &sl SYMBOL   ___       ___            ___       ___     &kp LG(J)     &sk TAB     &kp LG(L)     &sl APP    ___ 
                 &kp LG(LSHIFT) ___     ___     &kp LG(C)     &kp LG(V)     ___                              ___     &kp LG(M)     &kp LG(COMMA) &kp LG(DOT)   ___  ___
                 ___       ___       ___       ___       ___                                                    ___       ___       ___       ___       ___
