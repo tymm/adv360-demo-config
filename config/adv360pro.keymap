@@ -68,6 +68,8 @@
     };
 
     keymap {
+	#include "macros.dtsi"
+
         compatible = "zmk,keymap";
 
         base_layer {
